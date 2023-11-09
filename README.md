@@ -29,9 +29,7 @@ Step 6:
 Compare the original string and the reversed string using conditional statement.
 
 ## Program:
-Developed By: Jayamani.R
 
-Reg no: 212222100014
 ```C#
 using System;
 
